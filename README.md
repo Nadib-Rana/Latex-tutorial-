@@ -3,10 +3,10 @@ To create a roadmap for learning LaTeX, it's important to break it down into man
 
 ### 1. **Introduction to LaTeX**
    - **Understand LaTeX Basics**
-     <span style="color: red;">
+    <span style="color: red;">This is red text</span>
      - What is LaTeX and its applications?
      - Compare LaTeX with other typesetting systems like Word processors.
-     -This is red text </span>
+     
    - **Set Up Your Environment**
      - Install a LaTeX distribution (TeX Live, MiKTeX, etc.).
      - Choose an editor (Overleaf, TeXShop, TeXworks, etc.).
