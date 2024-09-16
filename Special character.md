@@ -1,11 +1,11 @@
- ***Some common characters have special meanings in LaTeX:
+### Some common characters have special meanings in LaTeX:
 ```laTex
 percent sign (%)
 hash (pound / sharp) sign (#)
 ampersand (&)
 dollar sign ($)
 ```
- ***Example in LaTeX showing how to use these special characters:
+### Example in LaTeX showing how to use these special characters:
 
 ```latex
 \documentclass{article}
