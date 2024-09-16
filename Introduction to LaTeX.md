@@ -153,5 +153,3 @@
 **Books and Documentation**
 - **Books**: *"LaTeX: A Document Preparation System"* by Leslie Lamport.
 - **Documentation**: LaTeX Wikibook and official documentation for packages and classes.
-
-Feel free to ask if you need more detailed explanations or examples on any of these topics!
